@@ -47,9 +47,9 @@ If MSCNet is useful for your research, please consider citing:
     @inproceedings{li2017mscnet,
       author = {Xin Li and
                 Fan Yang and
-                Xiaojuan Qi and
-                Xiaogang Wang and
-                Jiaya Jia},
+                Hong Cheng and
+                Junyu Chen and
+                Leiting Chen},
       title = {Multi-Scale Cascade Network for Salient Object Detection},
       booktitle = {ACM MM},
       year = {2017}
