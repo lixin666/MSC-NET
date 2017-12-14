@@ -45,11 +45,8 @@ ps: You should uncomment 'WITH_PYTHON_LAYER := 1' in Makefile.config before comp
 If MSCNet is useful for your research, please consider citing:
 
     @inproceedings{li2017mscnet,
-      author = {Xin Li and
-                Fan Yang and
-                Hong Cheng and
-                Junyu Chen and
-                Leiting Chen},
+      author = {Xin Li and Fan Yang and Hong Cheng 
+                and Junyu Chen and Leiting Chen},
       title = {Multi-Scale Cascade Network for Salient Object Detection},
       booktitle = {ACM MM},
       year = {2017}
