@@ -34,7 +34,7 @@ ps: You should uncomment 'WITH_PYTHON_LAYER := 1' in Makefile.config before comp
 
    - Test code is in folder 'test'.
    - Download trained models and put them in folder 'test/models':
-     - MSCNet.caffemodel: [BaiduYun](https://pan.baidu.com/s/1eSfaDto) [GoogleDrive](https://drive.google.com/open?id=1wb71oU49G3gyor7vF1qDgPq0ePCFYHKG)
+     - MSCNet.caffemodel: [BaiduYun](https://pan.baidu.com/s/1eSfaDto) or [GoogleDrive](https://drive.google.com/open?id=1wb71oU49G3gyor7vF1qDgPq0ePCFYHKG)
    - Put the test images in folder 'images', and run
    
    ```shell
